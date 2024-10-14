@@ -1,7 +1,4 @@
 # Github-Game-Configs
-I often receive requests for game-specific optimization guides and my settings.<br>
-Due to time constraints, I can't always post optimization videos.<br>
-However, I'll share updated configs here when possible.<br>
 
 # About
 Use these configs as a starting point to improve performance.<br>
